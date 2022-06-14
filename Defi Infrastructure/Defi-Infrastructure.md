@@ -37,18 +37,18 @@ The goal of DeFi is to get rid of the third parties that are involved in all fin
 ## Evolution Of Finance :-
 
 ### Purpose Of Money 
-**Unit Of Accounts** -> A Way to compare values of various goods and services.
-**Medium Of Exchange** -> Allows non barter transaction.
-**Store Of Value** -> Allows values to be retained.
-**Transfer of Value** -> Ease of Transfer of value and to defer Value.
+ - **Unit Of Accounts** -> A Way to compare values of various goods and services.
+ - **Medium Of Exchange** -> Allows non barter transaction.
+ - **Store Of Value** -> Allows values to be retained.
+ - **Transfer of Value** -> Ease of Transfer of value and to defer Value.
 
 
 ### Characterstics of Money
-Durability -> Repeated Use (paper, gold)
-Portability -> You Can Carry Around
-Divisibility -> Fractional Units
-Uniformity -> Versions of same currency have identical values
-Limited supply -> Which makes it valuable.
+ - **Durability** -> Repeated Use (paper, gold)
+ - **Portability** -> You Can Carry Around
+ - **Divisibility** -> Fractional Units
+ - **Uniformity** -> Versions of same currency have identical values
+ - **Limited supply** -> Which makes it valuable.
 
 
 
