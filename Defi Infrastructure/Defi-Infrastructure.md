@@ -13,3 +13,23 @@ Decentralized Finance uses this technology to eliminate centralized finance mode
 
 DeFi applications give users more control over their money through personal wallets and trading services that cater to individuals.
 
+
+
+### How Does Decentralized Finance (DeFi) Works 🤨
+Decentralized finance uses the blockchain technology that cryptocurrencies use. A blockchain is a distributed and secured database or ledger. Applications called dApps are used to handle transactions and run the blockchain.
+
+
+
+
+### Future of DeFi 🤨
+Decentralized finance is still in the beginning stages of its evolution. For starters, it is unregulated, which means the ecosystem is still riddled with infrastructural mishaps, hacks, and scams.
+The goal of DeFi is to get rid of the third parties that are involved in all financial transactions.
+
+
+
+
+
+
+
+
+
