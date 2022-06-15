@@ -37,10 +37,15 @@ The goal of DeFi is to get rid of the third parties that are involved in all fin
 ## Evolution Of Finance :-
 
 ### Purpose Of Money 
-**Unit Of Accounts** -> A Way to compare values of various goods and services.
-**Medium Of Exchange** -> Allows non barter transaction.
-**Store Of Value** -> Allows values to be retained.
-**Transfer of Value** -> Ease of Transfer of value and to defer Value.
+ - **Unit Of Accounts** -> A Way to compare values of various goods and services.
+ - **Medium Of Exchange** -> Allows non barter transaction.
+ - **Store Of Value** -> Allows values to be retained.
+ - **Transfer of Value** -> Ease of Transfer of value and to defer Value.
+ 
+ 
+&nbsp; 
+&nbsp;  
+
 
 
 ### Characterstics of Money
@@ -51,21 +56,24 @@ The goal of DeFi is to get rid of the third parties that are involved in all fin
  - Limited supply -> Which makes it valuable.
 
 
+&nbsp; 
+&nbsp;  
+
 
 
 
 ## Problems with Centralized finance
 
-1. Centralized Control :-
+1. **Centralized Control :-**
  - Centralized banking system is highly concentrated.
  - National central banks control currency
  - Non financial centralization of tech giants eg. Facebook, google, Amazon
 
-2. Limited Access :-
+2. **Limited Access :-**
  - Around 1.5 Billion peoples are unbanked.
  - Many enterpreneurs use credit card to finance their business. Since banks won't lend to them because they are small.
 
-3. Inefficiency
+3. **Inefficiency :-**
  - Banks charges 3% for swiping through credit card.
  - 2 days settlement times for stock transactions.
  - Slow transfer of funds.
@@ -73,12 +81,15 @@ The goal of DeFi is to get rid of the third parties that are involved in all fin
  - Difficult to get paid.
  - Money is not secured.
 
-4. Trust Issues
+4. **Trust Issues :-**
  - Very little transparency
  - Bank costumers don't know about the health of bank.
  - Banks have full control over the money.
   
 
+
+&nbsp; 
+&nbsp;  
 
 
 
@@ -88,6 +99,8 @@ The Core foundation of DeFi is Blockchain technology, Cryptographic hashing, cry
 
 Let's Start With Blockchain
 
+&nbsp;   
+
 ### What is Blockchain in Terms of DeFi ⛓
 Blockchain was invented by Haber and Stornetta in 1991, is basically a software protocol that allows multiple parties to operate under shared assumptions and data without trusting each other. 
  - These Data can be anything such as information of items in a supply chain or account balances of a token.
@@ -96,10 +109,16 @@ Blockchain was invented by Haber and Stornetta in 1991, is basically a software 
  - It's a distributed ledger: Blockchain is a ledger which is quickly and easily accessed by any person. It's distributed.
  - It's immutable: you can add anyting to blockchain but can't edit or delete it. 
 
+&nbsp; 
+&nbsp;  
+
 ### How public blockchain Works 🤼
  - Every Block contains a hashed reference to the block before it, So that you can trace every transaction all the way back to genesis block.
  - Cryptographic Security: Last Line (Hash) is repeated at the first line in the next block. This is why it is called chain of blocks. Altering any data in block 1, means the last line will change and will not match the first line in block 2.
 
+
+&nbsp; 
+&nbsp;  
 
 
  ### Hashing (Very important for DeFi) #️⃣ ❇
@@ -114,6 +133,7 @@ Blockchain was invented by Haber and Stornetta in 1991, is basically a software 
   - For Example the corrupted message is hallo instead of hello. So the hash will be completely different.
   - This is hash is little bit simple and causes a collison.
 
+&nbsp; 
 
   **SHA-256 (Secure Hashing Algorithm)**
   This algorithm is also used by bitcoin.
@@ -121,9 +141,15 @@ Blockchain was invented by Haber and Stornetta in 1991, is basically a software 
   - Hashing is not a encryption because you can't decrypt.
   - The output of SHA-256 is 256 bits longer no matter how big or small is the input.
 
-    **Keccak-256 Algorithm**
+&nbsp; 
+
+
+   **Keccak-256 Algorithm**
   This algorithm is also used by ethereum.
   - Different hashing algorithm have different outputs from the SHA-256 for the same input.
+
+&nbsp; 
+&nbsp;  
 
 
 
@@ -137,9 +163,15 @@ Proof of work (PoW) is a decentralized consensus mechanism that requires members
 - Proof of Stake (POS) was one of several novel consensus mechanisms created as an alternative to proof of work.
 
 
+&nbsp; 
+&nbsp;  
+
 ### What is proof of Stake then and difference between POW (Proof Of Work) and POS(Proof of Stake) ? 
 PoS is a consensus mechanism that randomly assigns the node that will mine or validate block transactions according to how many coins that node holds. The more tokens held in a wallet, the more mining power is effectively granted to it. While PoS is far less resource-intensive, it has several other flaws including a greater chance of a 51% attack in smaller altcoins and incentives to hoard tokens and not use them.
 
+
+&nbsp; 
+&nbsp;  
 
 
 
@@ -148,6 +180,9 @@ PoS is a consensus mechanism that randomly assigns the node that will mine or va
  - ERC721 is a non fungible token
  - Benefits of these standards is that application developers can code for one interface, and supports every possible token that implements that interface.
 
+
+&nbsp; 
+&nbsp;  
 
 
 ### What are Oracle 
@@ -159,8 +194,14 @@ PoS is a consensus mechanism that randomly assigns the node that will mine or va
 
 
 
+&nbsp; 
+&nbsp;  
+
 
 ## Problems that DeFi solves.
+
+&nbsp; 
+&nbsp;  
 
 ### Inefficiency, limited access, transparency
 
