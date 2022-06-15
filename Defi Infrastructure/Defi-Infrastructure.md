@@ -44,11 +44,11 @@ The goal of DeFi is to get rid of the third parties that are involved in all fin
 
 
 ### Characterstics of Money
-Durability -> Repeated Use (paper, gold)
-Portability -> You Can Carry Around
-Divisibility -> Fractional Units
-Uniformity -> Versions of same currency have identical values
-Limited supply -> Which makes it valuable.
+ - Durability -> Repeated Use (paper, gold)
+ - Portability -> You Can Carry Around
+ - Divisibility -> Fractional Units
+ - Uniformity -> Versions of same currency have identical values
+ - Limited supply -> Which makes it valuable.
 
 
 
