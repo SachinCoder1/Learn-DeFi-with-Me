@@ -37,18 +37,18 @@ The goal of DeFi is to get rid of the third parties that are involved in all fin
 ## Evolution Of Finance :-
 
 ### Purpose Of Money 
- - **Unit Of Accounts** -> A Way to compare values of various goods and services.
- - **Medium Of Exchange** -> Allows non barter transaction.
- - **Store Of Value** -> Allows values to be retained.
- - **Transfer of Value** -> Ease of Transfer of value and to defer Value.
+** Unit Of Accounts ** -> A Way to compare values of various goods and services.
+** Medium Of Exchange ** -> Allows non barter transaction.
+** Store Of Value ** -> Allows values to be retained.
+** Transfer of Value ** -> Ease of Transfer of value and to defer Value.
 
 
 ### Characterstics of Money
- - **Durability** -> Repeated Use (paper, gold)
- - **Portability** -> You Can Carry Around
- - **Divisibility** -> Fractional Units
- - **Uniformity** -> Versions of same currency have identical values
- - **Limited supply** -> Which makes it valuable.
+Durability -> Repeated Use (paper, gold)
+Portability -> You Can Carry Around
+Divisibility -> Fractional Units
+Uniformity -> Versions of same currency have identical values
+Limited supply -> Which makes it valuable.
 
 
 
@@ -125,6 +125,20 @@ Blockchain was invented by Haber and Stornetta in 1991, is basically a software 
   This algorithm is also used by ethereum.
   - Different hashing algorithm have different outputs from the SHA-256 for the same input.
 
+
+
+### What is proof of Work and How Does it Work ⚒
+Proof of Work (PoW) is the original consensus algorithm in a blockchain network. The algorithm is used to confirm the transaction and creates a new block to the chain. In this algorithm, minors (a group of people) compete against each other to complete the transaction on the network. The process of competing against each other is called mining. As soon as miners successfully created a valid block, he gets rewarded. The most famous application of Proof of Work(PoW) is Bitcoin.
+
+Proof of work (PoW) is a decentralized consensus mechanism that requires members of a network to expend effort solving an arbitrary mathematical puzzle to prevent anybody from gaming the system.
+- Proof of work is used widely in cryptocurrency mining, for validating transactions and mining new tokens.
+- Due to proof of work, Bitcoin and other cryptocurrency transactions can be processed peer-to-peer in a secure manner without the need for a trusted third party.
+- Proof of work at scale requires huge amounts of energy, which only increases as more miners join the network.
+- Proof of Stake (POS) was one of several novel consensus mechanisms created as an alternative to proof of work.
+
+
+### What is proof of Stake then and difference between POW (Proof Of Work) and POS(Proof of Stake) ? 
+PoS is a consensus mechanism that randomly assigns the node that will mine or validate block transactions according to how many coins that node holds. The more tokens held in a wallet, the more mining power is effectively granted to it. While PoS is far less resource-intensive, it has several other flaws including a greater chance of a 51% attack in smaller altcoins and incentives to hoard tokens and not use them.
 
 
 
