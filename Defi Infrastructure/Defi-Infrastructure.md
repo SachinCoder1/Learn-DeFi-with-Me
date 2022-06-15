@@ -83,6 +83,49 @@ Limited supply -> Which makes it valuable.
 
 
 
+## Foundation Of DeFi
+The Core foundation of DeFi is Blockchain technology, Cryptographic hashing, cryptocurrency.
+
+Let's Start With Blockchain
+
+### What is Blockchain in Terms of DeFi ⛓
+Blockchain was invented by Haber and Stornetta in 1991, is basically a software protocol that allows multiple parties to operate under shared assumptions and data without trusting each other. 
+ - These Data can be anything such as information of items in a supply chain or account balances of a token.
+ - No one can temper with it because most of blockchains are open source.
+ - Blockchain is not a bitcoin however Bitcoin uses the blockchain technology.
+ - It's a distributed ledger: Blockchain is a ledger which is quickly and easily accessed by any person. It's distributed.
+ - It's immutable: you can add anyting to blockchain but can't edit or delete it. 
+
+### How public blockchain Works 🤼
+ - Every Block contains a hashed reference to the block before it, So that you can trace every transaction all the way back to genesis block.
+ - Cryptographic Security: Last Line (Hash) is repeated at the first line in the next block. This is why it is called chain of blocks. Altering any data in block 1, means the last line will change and will not match the first line in block 2.
+
+
+
+ ### Hashing (Very important for DeFi) #️⃣ ❇
+
+ ** A Simple Hash **  
+ Suppose i send an email to Steve Wazniak, However he needs to verify that what i sent him is exactly what he recieved.
+  - Emails contains a single word "hello".
+  - Encode the word (a=1, b=2, z = 26), so 8 5 12 12 15
+  - Multiply number to get 86400
+  - I post the hash on my website. after Steve Wazniak gets my email, She does the same hash and checks my website.
+  - If the message was corrupted the hash will not match.
+  - For Example the corrupted message is hallo instead of hello. So the hash will be completely different.
+  - This is hash is little bit simple and causes a collison.
+
+
+  ** SHA-256 (Secure Hashing Algorithm) **
+  This algorithm is also used by bitcoin.
+  - Hashing is a one way function.
+  - Hashing is not a encryption because you can't decrypt.
+  - The output of SHA-256 is 256 bits longer no matter how big or small is the input.
+
+    ** Keccak-256 Algorithm **
+  This algorithm is also used by ethereum.
+  - Different hashing algorithm have different outputs from the SHA-256 for the same input.
+
+
 
 
 
