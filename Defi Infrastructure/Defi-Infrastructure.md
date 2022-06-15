@@ -37,10 +37,10 @@ The goal of DeFi is to get rid of the third parties that are involved in all fin
 ## Evolution Of Finance :-
 
 ### Purpose Of Money 
-** Unit Of Accounts ** -> A Way to compare values of various goods and services.
-** Medium Of Exchange ** -> Allows non barter transaction.
-** Store Of Value ** -> Allows values to be retained.
-** Transfer of Value ** -> Ease of Transfer of value and to defer Value.
+**Unit Of Accounts** -> A Way to compare values of various goods and services.
+**Medium Of Exchange** -> Allows non barter transaction.
+**Store Of Value** -> Allows values to be retained.
+**Transfer of Value** -> Ease of Transfer of value and to defer Value.
 
 
 ### Characterstics of Money
@@ -104,7 +104,7 @@ Blockchain was invented by Haber and Stornetta in 1991, is basically a software 
 
  ### Hashing (Very important for DeFi) #️⃣ ❇
 
- ** A Simple Hash **  
+ **A Simple Hash** 
  Suppose i send an email to Steve Wazniak, However he needs to verify that what i sent him is exactly what he recieved.
   - Emails contains a single word "hello".
   - Encode the word (a=1, b=2, z = 26), so 8 5 12 12 15
@@ -115,13 +115,13 @@ Blockchain was invented by Haber and Stornetta in 1991, is basically a software 
   - This is hash is little bit simple and causes a collison.
 
 
-  ** SHA-256 (Secure Hashing Algorithm) **
+  **SHA-256 (Secure Hashing Algorithm)**
   This algorithm is also used by bitcoin.
   - Hashing is a one way function.
   - Hashing is not a encryption because you can't decrypt.
   - The output of SHA-256 is 256 bits longer no matter how big or small is the input.
 
-    ** Keccak-256 Algorithm **
+    **Keccak-256 Algorithm**
   This algorithm is also used by ethereum.
   - Different hashing algorithm have different outputs from the SHA-256 for the same input.
 
@@ -142,5 +142,19 @@ PoS is a consensus mechanism that randomly assigns the node that will mine or va
 
 
 
+
+### ERC20 And ERC721
+ - ERC20 is a fungible token. 
+ - ERC721 is a non fungible token
+ - Benefits of these standards is that application developers can code for one interface, and supports every possible token that implements that interface.
+
+
+
+### What are Oracle 
+ - Ethereum blockchain only knows what happens on the Ethereum blockchain. The information needed from outside the Ethereum blockchain oracle solves this problem.
+ - An oracle is the data source for reporting information external to the blockchain.
+
+ **Oracle implementation**
+  - Ethereum based platform known as chainlink is designed to solve the oracle problem by using an aggregation of data sources. 
 
 
