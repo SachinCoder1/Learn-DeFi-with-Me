@@ -158,3 +158,24 @@ PoS is a consensus mechanism that randomly assigns the node that will mine or va
   - Ethereum based platform known as chainlink is designed to solve the oracle problem by using an aggregation of data sources. 
 
 
+
+
+## Problems that DeFi solves.
+
+### Inefficiency, limited access, transparency
+
+**Inefficiency**
+  * DeFi can accomplish financial transaction with high volumes of assets and low friction that would generally be larger organizational burden for traditional finance.
+  * In the case of ethereum based DeFi, the contracts can be used by anyone who pays the gas fee.
+  * Fork the open source code,  Copy and reuse the existing code with upgrades or improvements and make your own completely different business.
+
+**Limited Access**
+DeFi gives large underserved groups, such as the global population of the unbanked as well as small businesses, that employs the substential portion of the workforce direct access to financial services.
+
+**Transparency or Opacity**
+Traditional banks or centralized banks are not usually transparent.
+ - DeFi elegantly solves the transparency problems through the open and contractual nature of agreements.
+ - We will explore how smart contracts and tokenization improves transparency within DeFi.
+ - Smart Contracts are transparent. The parties can read the contracts themselves.
+ - Ensuring appropriate behaviour in smart contracts.
+ - Token Contract: Tokenization allows for transparent ownership and users can know excatly how many tokens are in the system.
