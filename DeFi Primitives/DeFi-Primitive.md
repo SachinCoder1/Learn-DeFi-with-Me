@@ -40,3 +40,34 @@ Transaction involves sending ETH or other Tokens from one address to another.
    - ERC-1155 resolves this complexity by defining a multi token model in which the contract holds the balance for a variable number of tokens, which can be fungible, non fungible.
 
 
+  
+
+ ## Blockchain Tech 
+
+ ### Hashes And Keys :-
+
+   **Hasing**
+  Provide the last block as a header of next. SHA-256, Keccak-256, One way cryptographic function. Hasing is a cryptographic function and not encryption.
+
+  **Cryptography**
+  This is widely used in all aspects of blockchain. It is important in deriving the public key.
+   Two types of cryptography.
+   1. Symmetric Key.
+   2. Asymmetric Key.
+
+
+### Address
+
+ **Public Address**
+ This is either identical to the public key or a function of the public key.
+  - Bitcoin and ethereum uses Elleptic Curve Digital Signature Algorithm (ECDSA) for signing transaction.
+
+**Private Address**
+Private key is a number called signing key. It's a confidential key.
+ - Public key is the verification key and is mathematically linked to the private key.
+
+
+### Immutability
+
+This is a crucial characterstic of a blockchain. 
+
