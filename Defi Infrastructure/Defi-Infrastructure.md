@@ -36,7 +36,7 @@ The goal of DeFi is to get rid of the third parties that are involved in all fin
 
 ## Evolution Of Finance :-
 
-### Purpose Of Money 
+### 1️⃣ Purpose Of Money 
  - **Unit Of Accounts** -> A Way to compare values of various goods and services.
  - **Medium Of Exchange** -> Allows non barter transaction.
  - **Store Of Value** -> Allows values to be retained.
@@ -48,7 +48,7 @@ The goal of DeFi is to get rid of the third parties that are involved in all fin
 
 
 
-### Characterstics of Money
+### 2️⃣ Characterstics of Money
  - Durability -> Repeated Use (paper, gold)
  - Portability -> You Can Carry Around
  - Divisibility -> Fractional Units
@@ -101,7 +101,7 @@ Let's Start With Blockchain
 
 &nbsp;   
 
-### What is Blockchain in Terms of DeFi ⛓
+### 1️⃣ What is Blockchain in Terms of DeFi ⛓
 Blockchain was invented by Haber and Stornetta in 1991, is basically a software protocol that allows multiple parties to operate under shared assumptions and data without trusting each other. 
  - These Data can be anything such as information of items in a supply chain or account balances of a token.
  - No one can temper with it because most of blockchains are open source.
@@ -112,7 +112,7 @@ Blockchain was invented by Haber and Stornetta in 1991, is basically a software 
 &nbsp; 
 &nbsp;  
 
-### How public blockchain Works 🤼
+### 2️⃣ How public blockchain Works 🤼
  - Every Block contains a hashed reference to the block before it, So that you can trace every transaction all the way back to genesis block.
  - Cryptographic Security: Last Line (Hash) is repeated at the first line in the next block. This is why it is called chain of blocks. Altering any data in block 1, means the last line will change and will not match the first line in block 2.
 
@@ -121,7 +121,7 @@ Blockchain was invented by Haber and Stornetta in 1991, is basically a software 
 &nbsp;  
 
 
- ### Hashing (Very important for DeFi) #️⃣ ❇
+ ### 3️⃣ Hashing (Very important for DeFi) #️⃣ ❇
 
  **A Simple Hash** 
  Suppose i send an email to Steve Wazniak, However he needs to verify that what i sent him is exactly what he recieved.
@@ -153,7 +153,7 @@ Blockchain was invented by Haber and Stornetta in 1991, is basically a software 
 
 
 
-### What is proof of Work and How Does it Work ⚒
+### 4️⃣ What is proof of Work and How Does it Work ⚒
 Proof of Work (PoW) is the original consensus algorithm in a blockchain network. The algorithm is used to confirm the transaction and creates a new block to the chain. In this algorithm, minors (a group of people) compete against each other to complete the transaction on the network. The process of competing against each other is called mining. As soon as miners successfully created a valid block, he gets rewarded. The most famous application of Proof of Work(PoW) is Bitcoin.
 
 Proof of work (PoW) is a decentralized consensus mechanism that requires members of a network to expend effort solving an arbitrary mathematical puzzle to prevent anybody from gaming the system.
@@ -166,7 +166,7 @@ Proof of work (PoW) is a decentralized consensus mechanism that requires members
 &nbsp; 
 &nbsp;  
 
-### What is proof of Stake then and difference between POW (Proof Of Work) and POS(Proof of Stake) ? 
+### 5️⃣ What is proof of Stake then and difference between POW (Proof Of Work) and POS(Proof of Stake) ? 
 PoS is a consensus mechanism that randomly assigns the node that will mine or validate block transactions according to how many coins that node holds. The more tokens held in a wallet, the more mining power is effectively granted to it. While PoS is far less resource-intensive, it has several other flaws including a greater chance of a 51% attack in smaller altcoins and incentives to hoard tokens and not use them.
 
 
@@ -175,7 +175,7 @@ PoS is a consensus mechanism that randomly assigns the node that will mine or va
 
 
 
-### ERC20 And ERC721
+### 6️⃣ ERC20 And ERC721
  - ERC20 is a fungible token. 
  - ERC721 is a non fungible token
  - Benefits of these standards is that application developers can code for one interface, and supports every possible token that implements that interface.
@@ -185,7 +185,7 @@ PoS is a consensus mechanism that randomly assigns the node that will mine or va
 &nbsp;  
 
 
-### What are Oracle 
+### 7️⃣ What are Oracle 
  - Ethereum blockchain only knows what happens on the Ethereum blockchain. The information needed from outside the Ethereum blockchain oracle solves this problem.
  - An oracle is the data source for reporting information external to the blockchain.
 
@@ -203,7 +203,7 @@ PoS is a consensus mechanism that randomly assigns the node that will mine or va
 &nbsp; 
 &nbsp;  
 
-### Inefficiency, limited access, transparency
+### 1️⃣ Inefficiency, limited access, transparency
 
 **Inefficiency**
   * DeFi can accomplish financial transaction with high volumes of assets and low friction that would generally be larger organizational burden for traditional finance.

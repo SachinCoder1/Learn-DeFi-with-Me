@@ -3,7 +3,7 @@
 ## Transaction Mechanics 🧰
 
 
-### How Transaction Works
+### 1️⃣ How Transaction Works
 Transaction involves sending ETH or other Tokens from one address to another.
  - An Ethereum user can control address through an externally owned account or by using Smart Contract.
  - When Sending data to contract account, the data are used to execute code in that contract. The Transaction may or may not have an ETH payment for use by the contract.
@@ -14,7 +14,7 @@ Transaction involves sending ETH or other Tokens from one address to another.
 
  ## Fungible Tokens And Non Fungible Tokens (NFTs)
 
- ### Fungible Tokens
+ ### 1️⃣ Fungible Tokens
   - The Main or most used protocol for fungible tokens is ERC20
     **ERC20 Functionality**
     1. When a token implements the ERC20 Interface, any application that generically handles the defined functionality can instantly and seamlessly integrate with the token.
@@ -27,7 +27,7 @@ Transaction involves sending ETH or other Tokens from one address to another.
     1. Utility token are fungible token that are required to utilize some functionality of a smart contract system or that have an intrinsic value proposition defined by its respective smart contract system. 
 
 
- ### Non Fungible Token (NFT)
+ ### 2️⃣ Non Fungible Token (NFT)
    - ERC-721 defines the Non-Fungible standards.
    - It is similar to ERC-20 except that each unit has its own unique ID.
    - Their alternative name, deeds, implies their use case as representing unique ownership of unitary assets.
@@ -44,7 +44,7 @@ Transaction involves sending ETH or other Tokens from one address to another.
 
  ## Blockchain Tech 
 
- ### Hashes And Keys :-
+ ### 1️⃣ Hashes And Keys :-
 
    **Hasing**
   Provide the last block as a header of next. SHA-256, Keccak-256, One way cryptographic function. Hasing is a cryptographic function and not encryption.
@@ -56,7 +56,7 @@ Transaction involves sending ETH or other Tokens from one address to another.
    2. Asymmetric Key.
 
 
-### Address
+### 2️⃣ Address
 
  **Public Address**
  This is either identical to the public key or a function of the public key.
@@ -67,7 +67,7 @@ Private key is a number called signing key. It's a confidential key.
  - Public key is the verification key and is mathematically linked to the private key.
 
 
-### Immutability
+### 3️⃣ Immutability
 
 This is a crucial characterstic of a blockchain. 
 
