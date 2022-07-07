@@ -38,9 +38,13 @@ Two Token models are :-
 
 ### 2️⃣ Difference Between traditional finance problem and Maker DAO Solution.
 
-|      Public                                     |                                          |
+|      Traditional Finance Problems               |    Maker DAO Solution                    |
 | :---------------------------------:             |:---------------------------------:       |
-| Outside Contract ->                             |                                          |
+| **Centralized Control :** Interest Rate are influenced by US federal reserve and access to loan products controlled by regulation and institutional policies. |  Maker DAO platform is openly controlled by the MKR holder. |
+| **Limited Access :** Obtaining loan is difficult for a large majority of population. | Open ability to take out DAI liquidity against an overcolletralized position in any supported ERC-20 token. Access to a competitive USD-denominated returns in the DSR.|
+| **InEfficiency :** Acquiring a loan involves costs of time and money. | Intant liquidity at the push of the button with minimal transaction cost. |
+| **Lack of interoperatibility :** Cannot trustlessly use USD or USD-colletralized token in smart contract agreement.| Issueance of DAI, A permissionless USD-tracking stablecoin backed by cryptocurrency. DAI can be used in any smart contract or DeFi Appliction. |
+| **Opacity :** Unclear colletralization of lending institutions. | Transparent colletralization ratios of vaults visible to entire ecosystem. |
 
 
 
