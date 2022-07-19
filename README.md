@@ -1,7 +1,7 @@
 # Learn-DeFi-with-Me
 Learn everything about Decentralized Finance including DAO, Advantages of DeFi, What is DeFi, Future of DeFi and Many more.
 
-**Start here** -> https://github.com/SachinCoder1/Learn-DeFi-with-Me/tree/main/DeFi%20Primitives
+**Start here** -> https://github.com/SachinCoder1/Learn-DeFi-with-Me/blob/main/DeFi%20Primitives/DeFi-Primitive.md
 
 
 
