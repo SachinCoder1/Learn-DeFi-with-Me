@@ -220,3 +220,9 @@ Traditional banks or centralized banks are not usually transparent.
  - Smart Contracts are transparent. The parties can read the contracts themselves.
  - Ensuring appropriate behaviour in smart contracts.
  - Token Contract: Tokenization allows for transparent ownership and users can know excatly how many tokens are in the system.
+
+
+&nbsp; 
+&nbsp;
+
+**Next ->** https://github.com/SachinCoder1/Learn-DeFi-with-Me/blob/main/DeFi%20Deep%20Dive/DeFi-deep-Dive.md
