@@ -71,3 +71,4 @@ Private key is a number called signing key. It's a confidential key.
 
 This is a crucial characterstic of a blockchain. 
 
+**Next ->** https://github.com/SachinCoder1/Learn-DeFi-with-Me/blob/main/Defi%20Infrastructure/Defi-Infrastructure.md
